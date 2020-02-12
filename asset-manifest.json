@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Kapatych/ToDo/static/css/main.948e1b14.chunk.css",
-    "main.js": "/Kapatych/ToDo/static/js/main.78dff3ad.chunk.js",
-    "main.js.map": "/Kapatych/ToDo/static/js/main.78dff3ad.chunk.js.map",
-    "runtime-main.js": "/Kapatych/ToDo/static/js/runtime-main.decc8bbb.js",
-    "runtime-main.js.map": "/Kapatych/ToDo/static/js/runtime-main.decc8bbb.js.map",
-    "static/js/2.6f010cd3.chunk.js": "/Kapatych/ToDo/static/js/2.6f010cd3.chunk.js",
-    "static/js/2.6f010cd3.chunk.js.map": "/Kapatych/ToDo/static/js/2.6f010cd3.chunk.js.map",
-    "index.html": "/Kapatych/ToDo/index.html",
-    "precache-manifest.ce634d13eb37df99b708e1ef9e1091c9.js": "/Kapatych/ToDo/precache-manifest.ce634d13eb37df99b708e1ef9e1091c9.js",
-    "service-worker.js": "/Kapatych/ToDo/service-worker.js",
-    "static/css/main.948e1b14.chunk.css.map": "/Kapatych/ToDo/static/css/main.948e1b14.chunk.css.map"
+    "main.css": "/ToDo/static/css/main.948e1b14.chunk.css",
+    "main.js": "/ToDo/static/js/main.78dff3ad.chunk.js",
+    "main.js.map": "/ToDo/static/js/main.78dff3ad.chunk.js.map",
+    "runtime-main.js": "/ToDo/static/js/runtime-main.9359bac4.js",
+    "runtime-main.js.map": "/ToDo/static/js/runtime-main.9359bac4.js.map",
+    "static/js/2.6f010cd3.chunk.js": "/ToDo/static/js/2.6f010cd3.chunk.js",
+    "static/js/2.6f010cd3.chunk.js.map": "/ToDo/static/js/2.6f010cd3.chunk.js.map",
+    "index.html": "/ToDo/index.html",
+    "precache-manifest.db1a6112be6c4e9dca848f91c50ecb63.js": "/ToDo/precache-manifest.db1a6112be6c4e9dca848f91c50ecb63.js",
+    "service-worker.js": "/ToDo/service-worker.js",
+    "static/css/main.948e1b14.chunk.css.map": "/ToDo/static/css/main.948e1b14.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.decc8bbb.js",
+    "static/js/runtime-main.9359bac4.js",
     "static/js/2.6f010cd3.chunk.js",
     "static/css/main.948e1b14.chunk.css",
     "static/js/main.78dff3ad.chunk.js"
